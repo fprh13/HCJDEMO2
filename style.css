@@ -8,9 +8,8 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #333;
-  background: linen;
+  background: rgb(255, 255, 212);
 }
-
 ul {
   list-style-type: none;
 }
@@ -27,7 +26,7 @@ ul {
 }
 
 .navbar {
-  background-color: black;
+  background-color: rgb(45, 128, 161);
   color: #fff;
   height: 60px;
 }
@@ -63,9 +62,8 @@ ul {
 
 .navbar a:hover {
   border-bottom: 2px #fff solid;
-  color: #ddd;
+  color: rgb(244, 178, 178);
 }
-
 button {
   padding: 5px 10px;
   margin: 5px 10px;
